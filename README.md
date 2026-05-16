@@ -10,7 +10,7 @@ This project is an interactive Microsoft Excel dashboard that analyzes Swiggy fo
 - Slicers
 - Dashboard Design
 
-  ## Objectives
+## Objectives
 - Analyze restaurant pricing and customer ratings
 - Identify top-performing cities and states
 - Compare food categories and dish popularity
