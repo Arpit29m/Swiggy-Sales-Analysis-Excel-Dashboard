@@ -1,2 +1,2 @@
 # Swiggy-Sales-Analysis-Excel-Dashboard
-Interactive Excel dashboard analyzing Swiggy sales performance and business insights.
+This project is an interactive Microsoft Excel dashboard that analyzes Swiggy food delivery data across multiple cities and restaurants. The dashboard provides insights into pricing, ratings, food categories, and regional trends to support data-driven business decisions.
