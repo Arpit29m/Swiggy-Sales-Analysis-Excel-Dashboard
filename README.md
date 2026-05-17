@@ -3,6 +3,9 @@
 ## Description
 This project is an interactive Microsoft Excel dashboard that analyzes Swiggy food delivery data across multiple cities and restaurants. The dashboard provides insights into pricing, ratings, food categories, and regional trends to support data-driven business decisions.
 
+## Dashboard Preview
+![Dashboard](Dashboard.png)
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
@@ -44,5 +47,4 @@ The analysis highlights opportunities to identify top-performing restaurants, po
 ## Download Project File
 [Download the Excel Dashboard](Swiggy_Sales_Analysis.xlsx)
 
-## Dashboard Preview
-![Dashboard](Dashboard.png)
+
